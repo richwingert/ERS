@@ -1,7 +1,7 @@
 # ERS
 Employee Reimbursement System
 
-This project was a training project developed during Training with Revature.
+This was a practice application developed during training at Revature.
 
 The Expense Reimbursement System (ERS) will manage the process of reimbursing employees
 for expenses incurred while on company time. All employees in the company can login and
